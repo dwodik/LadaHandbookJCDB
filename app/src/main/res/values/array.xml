@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>"История"</item>
+        <item>"Классика"</item>
+        <item>"Нива"</item>
+        <item>"Самара-1 и Самара-2"</item>
+        <item>"Ока"</item>
+        <item>"Десятое семейство и Приора"</item>
+        <item>"Калина, Калина-2, Гранта"</item>
+        <item>"Веста, Икс-Рэй, Ларгус"</item>
+    </string-array>
+
+    <string-array name="history">
+        <item>Краткая информация|zdanie.jpg|inform.html</item>
+        <item>История|history.jpg|history.html</item>
+        <item>Экспорт|export.jpg|export.html</item>
+        <item>Деятельность|money_percent.jpg|action.html</item>
+    </string-array>
+
+    <string-array name="classic">
+        <item>ВАЗ-2101-"Копейка"|kopeika.jpg|2101.html</item>
+        <item>ВАЗ-2102-"Двойка"|dvoika.jpg|2102.html</item>
+        <item>ВАЗ-2103-"Тройка"|troika.jpg|2103.html</item>
+        <item>ВАЗ-2104-"Четвёрка"|chetverka.jpg|2104.html</item>
+        <item>ВАЗ-2105-"Пятёрка"|pyaterka.jpg|2105.html</item>
+        <item>ВАЗ-2106-"Шестёрка"|shesterka.jpg|2106.html</item>
+        <item>ВАЗ-2107-"Семёрка"|semerka.jpg|2107.html</item>
+    </string-array>
+
+    <string-array name="niva">
+        <item>Классическая Нива (Legend)|niva.jpg|niva.html</item>
+        <item>"Шеви"-Нива (Travel)|shevy_niva.jpg|shniva.html</item>
+    </string-array>
+
+    <string-array name="samara">
+        <item>ВАЗ-2108-"Восьмёрка"|vosmerka.jpg|2108.html</item>
+        <item>ВАЗ-2109-"Девятка"|devyatka.jpg|2109.html</item>
+        <item>ВАЗ-21099-"Девять-девять"|devyat_devyat.jpg|21099.html</item>
+        <item>ВАЗ-2113-"Тринашка"|trinashka.jpg|2113.html</item>
+        <item>ВАЗ-2114-"Четырка"|chetyrka.jpg|2114.html</item>
+        <item>ВАЗ-2115-"Пятнашка"|pyatnashka.jpg|2115.html</item>
+    </string-array>
+
+    <string-array name="oka">
+        <item>Ока|oka.jpg|oka.html</item>
+    </string-array>
+
+    <string-array name="priora">
+        <item>ВАЗ-2110-"Десятка"|desyatka.jpg|2110.html</item>
+        <item>ВАЗ-2111-"Одиннадцатая"|odinadcataya.jpg|2111.html</item>
+        <item>ВАЗ-2112-"Двенашка"|dvenashka.jpg|2112.html</item>
+        <item>ВАЗ-2170, 2171, 2172, 2173 -"Приора"|priora.jpg|priora.html</item>
+    </string-array>
+
+    <string-array name="kalina">
+        <item>ВАЗ-1117, ВАЗ-1118, ВАЗ-1119 -"Калина"|kalina.jpg|kalina.html</item>
+        <item>ВАЗ-2192, ВАЗ-2194 - "Калина-2"|kalina_2.jpg|kalina2.html</item>
+        <item>ВАЗ-2190, ВАЗ-2191 - "Гранта"|granta.jpg|granta.html</item>
+    </string-array>
+
+    <string-array name="renault">
+        <item>Lada Vesta|vesta.jpg|vesta.html</item>
+        <item>Lada X-Ray|x_ray.jpg|xray.html</item>
+        <item>Lada Largus|largus.jpg|largus.html</item>
+    </string-array>
+
+</resources>
